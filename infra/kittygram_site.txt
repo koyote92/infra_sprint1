@@ -1,0 +1,5 @@
+IP: 158.160.12.5
+name_taski: https://koyote92.hopto.org
+name_kittygram: https://inoland.online
+login: koyote92
+password: Nfufyhju92
